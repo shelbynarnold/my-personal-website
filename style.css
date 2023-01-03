@@ -24,12 +24,15 @@ ul.myUL {
     text-align: left;
 }
 div.Me {
-    margin: auto;
+    margin-left: 200px;
     float: left;
-    padding-left: 200px;
+    border: 10px solid brown;
 }
 div.Fen {
-    margin: auto;
+    margin-right: 200px;
     float: right;
-    padding-right: 100px;
+    border: 10px solid brown;
+}
+#fenris {
+    cursor: pointer;
 }
