@@ -1,3 +1,35 @@
 body {
     background: #87bd7e
 }
+h3 {
+color:antiquewhite;
+text-align: center;
+padding-bottom: 20px;
+font-style: italic;
+}
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    border-bottom: 6px solid darkgreen;
+}
+h2 {
+    text-align: center;
+    color: rgb(4, 56, 4);
+}
+div.abtMe {
+    text-align: center;
+}
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+}
+div.Me {
+    margin: auto;
+    float: left;
+    border: 10px solid forestgreen;
+}
+div.Fen {
+    margin: auto;
+    float: right;
+    border: 10px solid  forestgreen;
+}
