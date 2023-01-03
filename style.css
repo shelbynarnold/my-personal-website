@@ -26,10 +26,10 @@ ul.myUL {
 div.Me {
     margin: auto;
     float: left;
-    border: 10px solid forestgreen;
+    padding-left: 200px;
 }
 div.Fen {
     margin: auto;
     float: right;
-    border: 10px solid  forestgreen;
+    padding-right: 100px;
 }
